@@ -1,0 +1,55 @@
+#######################################
+### le fichier client du 20/03/2026 ###
+#######################################
+=========================================================================================================================================================
+nom,prenom,date_naissance,mail,telephone,adresse,ville,code_postal
+Rivière  ,René,1997-08-31,jeromebarthelemy@example.com,04 98 39 38 07,44 chemin Martinez,Saint Thierry,20634
+Rey      ,Alix,1986-02-28,ggrondin@example.net,+33 (0)4 77 03 72 81,335 avenue Ollivier,Aubrynec,71592
+Alexandre,Jeanne,1962-07-23,paulinepruvost@example.org,+33 3 24 85 38 14,57 rue Henry,Neveu,51804
+   Brunet,Odette,1986-09-16,suzanne63@example.org,0564344460,6 rue Merle,Sainte Michelle,69772
+Bouchet  ,Léon,1991-05-08,frederique40@example.com,0243164138,67 chemin de Imbert,88733,Saint Pierre
+Descamps,Nicole,1999-09-02,stephanielegros@example.net,0415315361,10 rue Leconte,Lemaître,91307
+Roy    ,Margaux,1968-06-20,garciaantoinette@example.com,+33 (0)3 54 78 97 79,81 rue Victoire Renard,Renault-sur-Dufour,91155
+Mary   ,Dominique,1963-05-22,alemoine@example.com,0345749955,74 avenue Gabrielle Olivier,Cousin,90847
+Da Silva,Capucine,2000-02-02,nvalette@example.net,0540701859,rue de Guibert,Legros,97394
+Boulay,Lucie,1993-03-25,claudine41@example.com,+33 2 38 79 92 90,1 boulevard Audrey Dufour,Saint Alexandria,76280
+Noël,Émile,1993-01-02,gerard81@example.net,04 42 92 05 05,14 avenue Grégoire Fouquet,Rodriguez-sur-Navarro,21708
+Bonnet,Geneviève,1954-09-09,andree07@example.org,02 90 11 34 91,39 rue Xavier Lacombe,Guillaume,90394
+Merle,Philippine,1952-06-24,parenthugues@example.net,04 73 28 28 49,78 avenue de Chauveau,Delannoy,26728
+Pires,Gérard,1986-01-14,emilie41@example.org,+33 3 54 54 78 78,55 avenue Hugues Gimenez,Sainte CamilleBourg,78244
+Lemonnier,Hélène,1951-08-24,zmoulin@example.com,05 47 06 67 99,7 boulevard de Cousin,Renard-les-Bains,26895
+De Sousa,Hugues,1977-01-03,inesjacquot@example.com,0169603360,69 rue Guibert,Saint Daniel,97193
+Gérard,Luc,1989-04-10,hguillaume@example.net,0364227947,50 rue Grégoire,Clément,97375
+Ruiz,Gabrielle,1981-08-02,cecile48@example.com,+33 (0)4 80 55 11 12,5 rue Joseph Lévy,47852,Lagarde
+Masse,Marguerite,1955-04-20,marianne80@example.net,+33 1 78 61 20 12,54 rue Delahaye,De Oliveira-la-Forêt,61460
+Allain,Manon,1970-12-21,timothee02@example.net,+33 (0)1 41 70 18 32,28 chemin de Coste,Garcia-les-Bains,25158
+Devaux,Marianne,2003-01-24,michellevasseur@example.net,03 83 92 24 71,96 chemin Michel Faure,Bodin,61603
+Germain,François,1984-12-20,pledoux@example.com,+33 6 87 17 29 85,43 chemin Christelle Legrand,63828,NeveuVille
+Tessier,Clémence,1955-02-21,mmoulin@example.org,+33 5 61 46 18 20,3 boulevard Bonnet,Rousselnec,66155
+Chartier,Éléonore,1953-08-06,thierrywagner@example.org,+33 2 31 75 18 16,avenue Merle,Sainte ClaireVille,52155
+Deschamps,Stéphanie,1999-12-14,lucie33@example.net,0434643350,rue Michel Roche,Sainte David,56547
+Lacroix,Guy,1945-10-28,labbelaetitia@example.com,0229747406,2 chemin Diane Chrétien,40575,Saint Valérie-sur-Mer
+Peltier,Marine,1970-07-12,kmorel@example.org,+33 (0)3 57 99 07 29,1 chemin Rémy,Gilbert,97290
+Breton,Benoît,1966-10-05,bturpin@example.net,0329311748,69 rue de Henry,Gimenez,74684
+   Blot,Julien,1963-06-25,guichardhortense@example.org,02 76 86 07 47,46 rue Auguste Gay,Duboisdan,67298
+Fernandes,Roland,1996-05-27,gleclercq@example.com,+33 (0)1 75 94 32 99,8 avenue Hamel,Vincent-sur-Mer,10243
+Launay,Jacqueline,1981-06-17,regnieralexandria@example.com,+33 (0)3 54 01 92 49,19 chemin William Gonzalez,90527,Sainte MartinVille
+Pons  ,Matthieu,1965-04-29,broger@example.org,+33 1 79 72 80 36,78 chemin de Joubert,Saint Christinenec,13464
+Perrin,Anastasie,1959-04-19,fleurydominique@example.org,+33 (0)2 61 64 61 12,63 rue Andre,Sauvage,02948
+Ledoux,Jeannine,1963-07-18,simoneperret@example.com,0579845813,685 chemin Jean,MeyerBourg,91291
+Simon,Marie,1987-06-22,fredericgerard@example.net,+33 (0)7 32 72 71 92,67 rue de Ledoux,Becker,10700
+  Peron,Raymond,1980-08-19,petitroland@example.org,+33 (0)5 31 56 74 97,avenue Hugues Diaz,Lucas,09214
+Perret,Camille,1999-08-24,gregoire25@example.net,03 20 86 59 20,28 avenue de Teixeira,Schmitt,25282
+Le Roux,Adélaïde,1988-06-09,malletgenevieve@example.net,0231068839,89 rue de Maillet,Bernard,35592
+Pineau,Simone,1959-12-16,yblanchet@example.com,+33 1 53 00 11 67,67 chemin Pierre,29477,Sainte Alexandria
+Navarro,Anaïs,1958-08-18,bguillou@example.com,0524358951,702 rue Hervé,Marin,78317
+Lacombe,Philippe,1947-11-24,marianne73@example.net,+33 (0)2 72 91 01 88,478 avenue Paul Marty,LopezVille,94831
+  Bègue,Guy,1966-03-29,andree26@example.net,+33 2 18 74 54 21,80 boulevard Zoé Garcia,Giraud-sur-Barbe,33673
+Grenier,François,1991-09-06,anastasie94@example.org,05 79 28 27 28,360 rue Roux,Rogernec,01172
+Delmas,Henri,1985-07-10,turpinmaryse@example.org,0517182921,35 avenue Fabre,Colin,24109
+Gilbert,Michelle,1976-05-23,lbertin@example.com,03 59 25 19 99,99 rue Hervé,97628,Reynaud-la-Forêt
+Fleury,Anaïs,1998-08-23,jeromelucas@example.net,+33 (0)2 40 76 36 91,96 boulevard Nathalie Guichard,Marion,25912
+Rocher,Claudine,1981-03-04,stephanetessier@example.com,+33 7 42 89 55 70,24 rue de Maillot,30893,Pruvost
+  Marin,Thierry,2002-04-07,ebruneau@example.net,0634889677,804 chemin de Rey,Mace,01960
+De Oliveira,Thibault,1996-10-10,yblanchet@example.net,04 80 12 55 38,53 boulevard Franck Schneider,Collet-les-Bains,37694
+Joseph,Denise,1951-08-17,llaurent@example.com,0182140203,47 rue Fournier,Lamy,89932
