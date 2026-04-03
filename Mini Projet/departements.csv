@@ -1,0 +1,16 @@
+id_departement,nom,localisation,responsable
+1,Direction Générale,Paris 8e,Jessica David
+2,Ressources Humaines,Paris 8e,Marie David
+3,Finance & Contrôle,Paris 9e,François Benoit
+4,Informatique & Digital,Paris 13e,Geneviève Perrin
+5,Marketing,Paris 2e,Antoine Noël
+6,Commercial France,Paris 15e,Alexandre Fabre
+7,Commercial Export,Lyon,Rémi Moreau
+8,Logistique,Orly,Léa Leroy
+9,Production,Rennes,Jonathan Mathieu
+10,Qualité,Rennes,Sébastien Fournier
+11,Juridique & Conformité,Paris 8e,Karine Morel
+12,Communication,Paris 2e,Thomas Tran
+13,Achats,Paris 13e,Rémi Mathieu
+14,Service Client,Bordeaux,Pierre Dumas
+15,R&D,Grenoble,Laura Benoit

@@ -1,0 +1,31 @@
+id_poste,intitule,niveau,salaire_base
+1,Directeur Général,C-Level,9500
+2,Directeur de Département,N-4,7200
+3,Manager,N-3,5400
+4,Responsable,N-2,4200
+5,Chef de Projet,N-2,4000
+6,Ingénieur Senior,N-2,4500
+7,Ingénieur,N-1,3500
+8,Développeur Senior,N-2,4800
+9,Développeur,N-1,3600
+10,Data Analyst,N-1,3400
+11,Data Scientist,N-2,4600
+12,Consultant,N-1,3700
+13,Chargé de Mission,N-1,3200
+14,Chargé de Recrutement,N-1,3000
+15,Gestionnaire RH,N-1,3100
+16,Contrôleur de Gestion,N-2,4100
+17,Comptable Senior,N-1,3300
+18,Commercial Senior,N-2,4000
+19,Commercial,N-1,3000
+20,Responsable Marketing,N-2,4200
+21,Chef de Produit,N-1,3600
+22,Responsable Logistique,N-2,4000
+23,Technicien Logistique,N-1,2700
+24,Technicien de Production,N-1,2600
+25,Responsable Qualité,N-2,4100
+26,Auditeur Qualité,N-1,3200
+27,Juriste,N-1,3800
+28,Acheteur,N-1,3400
+29,Chargé de Communication,N-1,3100
+30,Technicien Support,N-1,2800
