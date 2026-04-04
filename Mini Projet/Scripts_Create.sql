@@ -29,7 +29,7 @@ CREATE TABLE employe (
     numero_secu VARCHAR(15) UNIQUE NOT NULL,
     email VARCHAR(255) UNIQUE,
     telephone VARCHAR(20),
-    email_entreprise VARCHAR(255) UNIQUE,
+    email_entreprise VARCHAR(255),
     id_departement INTEGER REFERENCES departement(id_departement) ON DELETE SET NULL,
     id_poste INTEGER REFERENCES postes(id_poste) ON DELETE SET NULL,
     date_create TIMESTAMP,
